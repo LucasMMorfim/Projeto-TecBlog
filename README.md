@@ -1,2 +1,2 @@
 # Projeto-TecBlog
-Um simples projeto em Html e Css de um site fictício de tecnologia feito para demonstrar meus conhecimentos
+Um simples projeto em HTML e CSS de um site fictício de tecnologia feito para demonstrar meus conhecimentos
