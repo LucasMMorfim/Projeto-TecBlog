@@ -5,7 +5,7 @@ Um projeto em HTML e CSS de um site fictício de tecnologia feito para demonstra
 
 ## 🎨 Layout
 
-![image](https://github.com/LucasMMorfim/Projeto-TecBlog/blob/main/Imagens/Inicial.png)
+![image](https://github.com/LucasMMorfim/Projeto-TecBlog/blob/main/Imagens-demonstracao/Inicial.png)
 
 ## 🛠 Tecnologias
 
@@ -20,13 +20,13 @@ Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:</br>
 https://lucasmmorfim.github.io/Projeto-TecBlog/
 
-#Usando o Link acima podem aparecer alguns bugs no projeto devido a plataforma do GITHUB
+❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
 ## 📁 Como executar o projeto na sua maquina
 
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
-#Clone o repositório digitando:
+#Baixe o repositório ou clone digitando:
 git clone https://github.com/LucasMMorfim/Projeto-TecBlog.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
